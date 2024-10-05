@@ -1,3 +1,4 @@
+//Usei os valores como exemplo
 let heroi = {
     nome: "Nyckollas",
     idade: 15,
